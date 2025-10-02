@@ -3,6 +3,6 @@ title: "Decoded Codex"
 layout: "base.njk"
 ---
 
-# The Unfolding Path
+# Decoded Codex 
 
-Welcome. This is a living repository of study, reflection, and practice, chronicling a journey through the world's great religious and philosophical traditions. It is a space for inquiry, dedicated to exploring the perennial wisdom that flows through all faiths and schools of thought.
+This is a living repository of study, reflection, and practice, diving into the world's great religious and philosophical traditions. The goal of this place is to encourage the exploration of the perennial wisdom that flows through all faiths and schools of thought.
