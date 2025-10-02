@@ -28,3 +28,21 @@ h1 {
     /* A muted gold accent color */
     text-align: center;
 }
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 3rem;
+  margin-top: 1rem;
+  font-size: large;
+}
+
+nav a {
+  text-decoration: none;
+  color: #C8B08A;
+}
