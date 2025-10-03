@@ -1,32 +1,32 @@
 body {
-    background-color: #2B2B2B;
-    /* A deep charcoal, not pure black */
-    color: #D3CBBF;
-    /* A soft, parchment-like color */
-    font-family: 'Lora', serif;
-    /* A classic serif font, may need to import this from Google Fonts later */
-    line-height: 1.7;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+  background-color: #2B2B2B;
+  /* A deep charcoal, not pure black */
+  color: #D3CBBF;
+  /* A soft, parchment-like color */
+  font-family: 'Lora', serif;
+  /* A classic serif font, may need to import this from Google Fonts later */
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 main {
-    max-width: 800px;
-    margin: 4rem auto;
-    /* Adds space at the top/bottom and centers the content */
-    padding: 2rem;
+  max-width: 800px;
+  margin: 4rem auto;
+  /* Adds space at the top/bottom and centers the content */
+  padding: 2rem;
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
-    /* An elegant display serif for headings */
-    font-size: 3rem;
-    color: #C8B08A;
-    /* A muted gold accent color */
-    text-align: center;
+  font-family: 'Playfair Display', serif;
+  /* An elegant display serif for headings */
+  font-size: 3rem;
+  color: #C8B08A;
+  /* A muted gold accent color */
+  text-align: center;
 }
 
 nav ul {
@@ -37,12 +37,10 @@ nav ul {
 }
 
 nav li {
-  margin: 0 3rem;
-  margin-top: 1rem;
+  margin: auto;
   font-size: large;
 }
 
 nav a {
-  text-decoration: none;
   color: #C8B08A;
 }
