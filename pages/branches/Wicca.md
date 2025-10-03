@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Wicca
 layout: base.njk
 ---
 
-# Islam
-
+# Wicca

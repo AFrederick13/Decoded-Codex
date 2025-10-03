@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Daoism
 layout: base.njk
 ---
 
-# Islam
-
+# Daoism

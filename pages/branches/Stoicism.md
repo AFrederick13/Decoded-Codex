@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Stoicism
 layout: base.njk
 ---
 
-# Islam
-
+# Stoicism

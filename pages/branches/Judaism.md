@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Judaism
 layout: base.njk
 ---
 
-# Islam
-
+# Judaism

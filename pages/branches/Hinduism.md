@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Hinduism
 layout: base.njk
 ---
 
-# Islam
-
+# Hinduism

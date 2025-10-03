@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Satanism
 layout: base.njk
 ---
 
-# Islam
-
+# Satanism
