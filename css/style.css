@@ -44,3 +44,12 @@ nav li {
 nav a {
   color: #C8B08A;
 }
+
+footer {
+  margin: auto;
+  text-align: center;
+}
+
+footer a {
+  color: #C8B08A;
+}
