@@ -14,9 +14,7 @@ layout: "base.njk"
   </div>
 
 <div id="topic-grid">
-  {%- for topic in collections.all | reverse %}
-    {# only show pages from 'pages/topics/' directory that have an image #}
-    {%- if topic.inputPath contains "pages/topics/" and topic.data.image %}
+  {%- for topic in collections.topics | reverse %}
       <a href="{{ topic.url }}" class="topic-card" data-tags="{{ topic.data.tags | join | downcase }}">
         <img src="{{ topic.data.image }}" alt="{{ topic.data.title }}">
         <div class="topic-card-content">
@@ -24,6 +22,5 @@ layout: "base.njk"
           <p>{{ topic.data.description }}</p>
         </div>
       </a>
-    {%- endif %}
   {%- endfor %}
 </div>
