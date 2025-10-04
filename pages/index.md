@@ -5,7 +5,7 @@ layout: "base.njk"
 
 # Decoded Codex 
 
-## Explore Topics:
+## Explore Topics
 
 <div id="filter-buttons">
   <button class="filter-btn active" data-filter="all">All</button>
