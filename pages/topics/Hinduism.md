@@ -9,4 +9,6 @@ tags:
 
 # Hinduism
 
+<img src="{{ image }}" alt="{{ title }}" class="topic-page-image">
+
 ## This topic is under development
