@@ -1,6 +1,6 @@
 ---
-title: Judaism
+title: Plato
 layout: base.njk
 ---
 
-# Judaism
+# Plato

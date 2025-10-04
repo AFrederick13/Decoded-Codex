@@ -1,7 +1,6 @@
 ---
-title: Islam
+title: Voltaire
 layout: base.njk
 ---
 
-# Islam
-
+# Voltaire
