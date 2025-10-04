@@ -1,32 +1,48 @@
 body {
-    background-color: #2B2B2B;
-    /* A deep charcoal, not pure black */
-    color: #D3CBBF;
-    /* A soft, parchment-like color */
-    font-family: 'Lora', serif;
-    /* A classic serif font, may need to import this from Google Fonts later */
-    line-height: 1.7;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+  background-color: #2B2B2B;
+  color: #ffc35d;
+  text-shadow: black 2px 2px 10px;
+  /* A classic serif font, may need to import this from Google Fonts later */
+  font-family: 'Lora', serif;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 main {
-    max-width: 800px;
-    margin: 4rem auto;
-    /* Adds space at the top/bottom and centers the content */
-    padding: 2rem;
+  max-width: auto;
+  margin: auto;
+  padding: .5rem;
+}
+
+p {
+  font-family: sans-serif;
+  color: rgb(213, 203, 176);
+  line-height: 1.75;
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
-    /* An elegant display serif for headings */
-    font-size: 3rem;
-    color: #C8B08A;
-    /* A muted gold accent color */
-    text-align: center;
+  font-family: 'Playfair Display', serif;
+  /* An elegant display serif for headings */
+  font-size: 3rem;
+  font-style: oblique;
+  color: #ffc35d;
+  padding-bottom: 3rem;
+  text-shadow: black 2px 2px 10px;
+  /* A muted gold accent color */
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.page-title {
+  margin-left: 1rem;
+  /* Or adjust as needed for page subtitles */
 }
 
 nav ul {
@@ -34,15 +50,106 @@ nav ul {
   justify-content: center;
   list-style: none;
   padding: 0;
+  text-shadow: black 2px 2px 10px;
 }
 
 nav li {
-  margin: 0 3rem;
-  margin-top: 1rem;
+  margin: auto;
   font-size: large;
 }
 
 nav a {
+  color: #ffc35d;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+}
+
+footer a {
+  color: #5da1ff;
+  padding: 2rem;
+}
+
+.topic-page-image{
+  width: 100%;
+  object-fit: cover;
+}
+
+#topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.topic-card {
+  background-color: #3d3737;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
   text-decoration: none;
-  color: #C8B08A;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+
+.topic-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.topic-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.topic-card-content {
+  padding: 1rem;
+  flex-grow: 1;
+}
+
+.topic-card-content h2 {
+  margin: 0;
+  text-align: center;
+  font-size: 2rem;
+}
+
+/* Styles for filter buttons */
+#filter-buttons {
+  margin: 1rem;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 1.5px solid black;
+  background-color: rgb(205, 205, 205);
+  cursor: pointer;
+  margin-right: 0.7rem;
+  border-radius: 13px;
+}
+
+.filter-btn.active {
+  background-color: #ffc35d;
+  color: black;
+  border-color: black;
+}
+
+/* Media queries should be at the end of the stylesheet to ensure they override base styles */
+@media (max-width: 600px) {
+  #topic-grid {
+    /* This sets two columns, each taking up 1 fractional unit (1fr), 
+      meaning they will be equal in width and occupy the full screen width.
+    */
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .topic-card-content h2 {
+    /* Reduce font size on smaller screens to prevent overflow */
+    font-size: 1rem;
+  }
 }
