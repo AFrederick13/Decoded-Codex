@@ -19,7 +19,6 @@ layout: "base.njk"
         <img src="{{ topic.data.image }}" alt="{{ topic.data.title }}">
         <div class="topic-card-content">
           <h2>{{ topic.data.title }}</h2>
-          <p>{{ topic.data.description }}</p>
         </div>
       </a>
   {%- endfor %}
