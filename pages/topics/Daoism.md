@@ -4,6 +4,7 @@ layout: base.njk
 image: /images/topics/daoism.jpg
 tags:
   - Philosophy
+  - Religion
   - Eastern
   - Daoism
 ---
