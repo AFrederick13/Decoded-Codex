@@ -1,6 +1,9 @@
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addCollection("topics", function(collection) {
-    return collection.getFilteredByGlob("topics/*.md");
+  eleventyConfig.addCollection("topics", function(collectionApi) {
+    return collectionApi.getAllSorted().filter(function(item) {
+      // path is relative to the project root
+      return item.inputPath.startsWith('./pages/topics/');
+    });
   });
 
   eleventyConfig.addPassthroughCopy("css");
