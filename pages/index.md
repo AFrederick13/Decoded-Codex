@@ -7,6 +7,8 @@ layout: "base.njk"
 
 ## Explore Topics
 
+<div id="search"></div>
+
 <div id="filter-buttons">
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="philosophy">Philosophy</button>
