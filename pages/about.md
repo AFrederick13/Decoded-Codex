@@ -2,10 +2,12 @@
 title: "About Decoded Codex"
 layout: "base.njk"
 description: "Learn about the mission and passion behind Decoded Codex. Discover the goal of creating an accessible and comprehensive resource for exploring the world's diverse religions and philosophies."
-image:
+image: /images/Home/DecodedCodex.jpg
 ---
 
-# About
+# About Decoded Codex
+
+<img src="/images/Home/DecodedCodex.jpg" alt="A open book written in an unknown language" id="site-image">
 
 A personal projected launched solely by me, this website is freshly under construction. I plan to update the website frequently, and many new changes to content and layout will be common. Expect a lot of updates!
 

@@ -85,6 +85,16 @@ footer a {
   padding: 2rem;
 }
 
+#site-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+  width: 50%;
+  border: 2px solid #ffc35d;
+  border-radius: 10px;
+}
+
 .topic-page-image {
   width: 100%;
   object-fit: cover;
