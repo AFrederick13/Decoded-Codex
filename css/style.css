@@ -85,6 +85,16 @@ footer a {
   padding: 2rem;
 }
 
+#site-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+  width: 50%;
+  border: 2px solid #ffc35d;
+  border-radius: 10px;
+}
+
 .topic-page-image {
   width: 100%;
   object-fit: cover;
@@ -154,6 +164,36 @@ footer a {
   background-color: #ffc35d;
   color: black;
   border-color: black;
+}
+
+/* Form Styles */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button[type="submit"] {
+  width: auto;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #ffc35d;
+  color: black;
+  cursor: pointer;
+  border-radius: 4px;
 }
 
 /* Media queries should be at the end of the stylesheet to ensure they override base styles */
