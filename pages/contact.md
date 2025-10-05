@@ -32,3 +32,13 @@ image: /images/Home/DecodedCodex.jpg
 
 <img src="/images/Home/DecodedCodex.jpg" alt="A open book written in an unknown language" id="site-image">
 
+<script>
+  const form = document.getElementById('contact-form');
+  if (form) {
+    form.addEventListener('submit', () => {
+      setTimeout(() => {
+        form.reset();
+      }, 100);
+    });
+  }
+</script>
