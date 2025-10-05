@@ -15,12 +15,12 @@ image: /images/Home/DecodedCodex.jpg
   method="POST">
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
 
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message" required></textarea>
   </label>
 
   <button type="submit">Send</button>

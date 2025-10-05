@@ -171,6 +171,12 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  border: 1px solid #5a5252;
+  padding: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
 }
 
 label {
@@ -179,11 +185,15 @@ label {
 
 input,
 textarea {
+  color: white;
   width: 100%;
   padding: 0.5rem;
+  margin: .5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  background-color: #3d3737;
+  border: 1px solid #5a5252;
 }
 
 button[type="submit"] {
@@ -194,6 +204,11 @@ button[type="submit"] {
   color: black;
   cursor: pointer;
   border-radius: 4px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button[type="submit"]:hover {
+  background-color: #ffdb8a;
 }
 
 /* Media queries should be at the end of the stylesheet to ensure they override base styles */
