@@ -171,6 +171,12 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  border: 1px solid #5a5252;
+  padding: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
 }
 
 label {
@@ -179,21 +185,56 @@ label {
 
 input,
 textarea {
+  color: white;
   width: 100%;
   padding: 0.5rem;
+  margin-top: .5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  background-color: #3d3737;
+  border: 1px solid #5a5252;
+}
+
+/* Form validation styles */
+input:invalid,
+textarea:invalid {
+  border-color: #ff6b6b;
+  box-shadow: 0 0 5px rgba(255, 107, 107, 0.5);
 }
 
 button[type="submit"] {
   width: auto;
   padding: 0.5rem 1rem;
-  border: none;
+  border: 2px solid black;
   background-color: #ffc35d;
   color: black;
   cursor: pointer;
   border-radius: 4px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button[type="submit"]:hover {
+  background-color: #ffdb8a;
+}
+
+button[type="reset"] {
+  width: auto;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  color: black;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #808080; /* Gray background */
+}
+
+button[type="reset"]:hover {
+  background-color: #a9a9a9; /* Lighter gray on hover */
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
 }
 
 /* Media queries should be at the end of the stylesheet to ensure they override base styles */
