@@ -188,7 +188,7 @@ textarea {
   color: white;
   width: 100%;
   padding: 0.5rem;
-  margin: .5rem;
+  margin-top: .5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
@@ -196,10 +196,17 @@ textarea {
   border: 1px solid #5a5252;
 }
 
+/* Form validation styles */
+input:invalid,
+textarea:invalid {
+  border-color: #ff6b6b;
+  box-shadow: 0 0 5px rgba(255, 107, 107, 0.5);
+}
+
 button[type="submit"] {
   width: auto;
   padding: 0.5rem 1rem;
-  border: none;
+  border: 2px solid black;
   background-color: #ffc35d;
   color: black;
   cursor: pointer;
@@ -209,6 +216,25 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
   background-color: #ffdb8a;
+}
+
+button[type="reset"] {
+  width: auto;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  color: black;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #808080; /* Gray background */
+}
+
+button[type="reset"]:hover {
+  background-color: #a9a9a9; /* Lighter gray on hover */
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
 }
 
 /* Media queries should be at the end of the stylesheet to ensure they override base styles */

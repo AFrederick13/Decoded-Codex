@@ -12,7 +12,8 @@ image: /images/Home/DecodedCodex.jpg
 
 <form
   action="https://formspree.io/f/xnngzpyq"
-  method="POST">
+  method="POST"
+  id="contact-form">
   <label>
     Your email:
     <input type="email" name="email" required>
@@ -20,10 +21,13 @@ image: /images/Home/DecodedCodex.jpg
 
   <label>
     Your message:
-    <textarea name="message" required></textarea>
+    <textarea name="message" required rows="7"></textarea>
   </label>
 
-  <button type="submit">Send</button>
+  <div class="form-buttons">
+    <button type="submit">Send Message</button>
+    <button type="reset" class="clear-btn">Clear Text</button>
+  </div>
 </form>
 
 <img src="/images/Home/DecodedCodex.jpg" alt="A open book written in an unknown language" id="site-image">
