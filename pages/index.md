@@ -1,6 +1,9 @@
 ---
 title: "Decoded Codex - Explore the Codex"
 layout: "base.njk"
+description: "Explore a diverse collection of world religions and philosophies. Decoded Codex is your guide to understanding the rich tapestry of human belief and wisdom, from ancient traditions to modern schools of thought."
+image:
+eleventyExcludeFromCollection: true
 ---
 
 # Decoded Codex 

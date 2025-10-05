@@ -1,6 +1,8 @@
 ---
 title: "About Decoded Codex"
 layout: "base.njk"
+description: "Learn about the mission and passion behind Decoded Codex. Discover the goal of creating an accessible and comprehensive resource for exploring the world's diverse religions and philosophies."
+image:
 ---
 
 # About
