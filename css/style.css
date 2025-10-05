@@ -156,6 +156,35 @@ footer a {
   border-color: black;
 }
 
+/* Form Styles */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button[type="submit"] {
+  width: auto;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #ffc35d;
+  color: black;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
 /* Media queries should be at the end of the stylesheet to ensure they override base styles */
 @media (max-width: 600px) {
   nav {
