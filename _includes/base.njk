@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
   <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
 </head>
-<body>
+<body {% if page.inputPath == './pages/index.md' %} data-pagefind-ignore {% endif %}>
 
   <header>
     <nav>
