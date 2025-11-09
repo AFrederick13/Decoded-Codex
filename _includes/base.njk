@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
   <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
 </head>
-<body {% if page.inputPath == './pages/index.md' %} data-pagefind-ignore {% endif %}>
+<body {% if page.inputPath == './pages/index.md' or search == false %} data-pagefind-ignore {% endif %}>
 
   <header>
     <nav>

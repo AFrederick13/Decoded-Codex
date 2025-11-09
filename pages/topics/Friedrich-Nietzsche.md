@@ -2,6 +2,8 @@
 title: Friedrich Nietzsche
 layout: base.njk
 image: /images/topics/friedrich-nietzsche.jpg
+eleventyExcludeFromCollections: true
+search: false
 tags:
   - Nietzsche
   - Philosophy
