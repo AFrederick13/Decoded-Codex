@@ -2,7 +2,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("topics", function(collectionApi) {
     return collectionApi.getAllSorted().filter(function(item) {
       // path is relative to the project root
-      return item.inputPath.startsWith('./pages/topics/');
+      return item.inputPath.startsWith('./pages/topics/') && item.data.published !== false;
     });
   });
 

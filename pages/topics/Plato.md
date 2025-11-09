@@ -2,6 +2,8 @@
 title: Plato
 layout: base.njk
 image: /images/topics/plato.png
+eleventyExcludeFromCollections: true
+search: false
 tags:
   - Plato
   - Philosophy
