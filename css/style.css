@@ -51,6 +51,7 @@ h1 {
 
 h2 {
   text-align: center;
+  padding-bottom: 2rem;
 }
 
 .page-title {
@@ -144,6 +145,17 @@ footer a {
 /* Make the entire Pagefind search result item show a pointer on hover */
 .pagefind-ui__result {
   cursor: pointer;
+}
+
+/* Change Pagefind placeholder text color to white */
+.pagefind-ui .pagefind-ui__search-input::placeholder {
+  color: #ffffff !important;
+  opacity: .8 !important;
+  text-shadow: none;
+}
+
+.pagefind-ui .pagefind-ui__search-input{
+  text-shadow: none;
 }
 
 /* Styles for filter buttons */
