@@ -7,11 +7,9 @@ eleventyExcludeFromCollections: true
 search: false
 ---
 
-## Decoded Codex
+# Decoded Codex
 
-# Your guide to exploring and understanding the world's diverse religions and philosophies.
-
-## Explore Topics
+## Your guide to exploring and understanding the world's diverse religions and philosophies.
 
 <div id="search"></div>
 
@@ -19,7 +17,7 @@ search: false
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="philosophy">Philosophy</button>
   <button class="filter-btn" data-filter="religion">Religion</button>
-  </div>
+</div>
 
 <div id="topic-grid">
   {%- for topic in collections.topics | reverse %}
