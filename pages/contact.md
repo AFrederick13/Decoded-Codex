@@ -9,14 +9,13 @@ image: /images/Home/DecodedCodex.jpg
 
 <p>Connect with Decoded Codex using the form below to send a message, ask a question, or give feedback.</p>
 
-
 <form
   action="https://formspree.io/f/xnngzpyq"
   method="POST"
   id="contact-form">
   <label>
     Your email:
-    <input type="email" name="email" required>
+    <input type="email" name="email" autocomplete="off" required>
   </label>
 
   <label>
