@@ -5,6 +5,8 @@ description: "Your guide to exploring and understanding the world's diverse reli
 image: /images/Home/DecodedCodex.jpg
 eleventyExcludeFromCollections: true
 search: false
+loadSearch: true
+loadTopics: true
 ---
 
 # Decoded Codex

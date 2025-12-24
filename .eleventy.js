@@ -4,9 +4,10 @@ module.exports = function(eleventyConfig) {
       .filter(item => item.data.published !== false && !item.data.eleventyExcludeFromCollections);
   });
 
-  // Ensure changes to CSS and Images trigger a refresh
+  // Static Asset Passthrough
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("js");
 
   // More robust watching for Linux environments
   eleventyConfig.setWatchThrottleWaitTime(100); 

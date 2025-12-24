@@ -8,7 +8,9 @@
   <link rel="icon" href="/images/Home/DecodedCodex.jpg" type="image/jpeg">
   <link rel="canonical" href="{{ page.url | url }}">
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
-  <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
+  {% if loadSearch %}
+    <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
+  {% endif %}
 </head>
 <body {% if page.inputPath == './pages/index.md' or search == false %} data-pagefind-ignore {% endif %}>
 
@@ -31,62 +33,14 @@
     <p><a href="https://github.com/AFrederick13/Decoded-Codex" target="_blank">View Source Code on GitHub</a></p>
   </footer>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const filterButtons = document.querySelectorAll('#filter-buttons .filter-btn');
-  const topicCards = document.querySelectorAll('#topic-grid .topic-card');
 
-  filterButtons.forEach(button => {
-    button.addEventListener('click', () => {
-      // Manage active button state
-      filterButtons.forEach(btn => btn.classList.remove('active'));
-      button.classList.add('active');
+  {% if loadSearch %}
+    <script src="/pagefind/pagefind-ui.js" defer></script>
+    <script src="{{ '/js/search.js' | url }}" defer></script>
+  {% endif %}
 
-      const filter = button.getAttribute('data-filter');
-
-      topicCards.forEach(card => {
-        if (filter === 'all') {
-          card.style.display = 'flex';
-        } else {
-          const tags = card.getAttribute('data-tags');
-          if (tags && tags.includes(filter)) {
-            card.style.display = 'flex';
-          } else {
-            card.style.display = 'none';
-          }
-        }
-      });
-    });
-  });
-});
-</script>
-
-
-<script src="/pagefind/pagefind-ui.js"></script>
-<script>
-  window.addEventListener('DOMContentLoaded', (event) => {
-    const pagefindUI = new PagefindUI({
-      element: "#search",
-      showSubResults: true
-    });
-
-    // Add a click listener to the search container to make results clickable
-    const searchContainer = document.querySelector("#search");
-    if (searchContainer) {
-      // Using "mousedown" is more reliable than "click" for navigation events.
-      searchContainer.addEventListener('mousedown', (e) => {
-        // Find the top-level result item that was clicked on.
-        const resultElement = e.target.closest('.pagefind-ui__result');
-        if (resultElement) {
-          // Find the link within that result.
-          const link = resultElement.querySelector('a');
-          // If a link is found, navigate to its href.
-          if (link) window.location.href = link.href;
-        }
-      });
-    }
-  });
-</script>
-
+  {% if loadTopics %}
+    <script src="{{ '/js/topics.js' | url }}" defer></script>
+  {% endif %}
 </body>
 </html>
