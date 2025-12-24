@@ -23,7 +23,7 @@ search: false
 
 <div id="topic-grid">
   {%- for topic in collections.topics | reverse %}
-      <a href="{{ topic.url }}" class="topic-card" data-tags="{{ topic.data.tags | join | downcase }}">
+      <a href="{{ topic.url }}" class="topic-card" data-tags="{{ topic.data.tags | join(' ') | downcase }}">
         <img src="{{ topic.data.image }}" alt="{{ topic.data.title }}">
         <div class="topic-card-content">
           <h2>{{ topic.data.title }}</h2>
