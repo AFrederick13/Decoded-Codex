@@ -29,13 +29,37 @@ image: /images/Home/DecodedCodex.jpg
   </div>
 </form>
 
+<p id="contact-form-status"></p>
+
 <img src="/images/Home/DecodedCodex.jpg" alt="A open book written in an unknown language" id="site-image">
 
 <script>
   const form = document.getElementById('contact-form');
   if (form) {
-    window.addEventListener('pageshow', (event) => {
-      if (event.persisted) form.reset();
+    const status = document.getElementById("contact-form-status");
+    const submitBtn = form.querySelector('button[type="submit"]');
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      submitBtn.disabled = true;
+      const data = new FormData(event.target);
+      try {
+        const response = await fetch(event.target.action, {
+          method: form.method,
+          body: data,
+          headers: { 'Accept': 'application/json' }
+        });
+        if (response.ok) {
+          status.textContent = "Thanks for your message! Send successful.";
+          form.reset();
+        } else {
+          status.textContent = "There was a problem submitting.";
+        }
+      } catch (error) {
+        status.textContent = "There was a problem submitting.";
+      } finally {
+        submitBtn.disabled = false;
+      }
     });
   }
 </script>
