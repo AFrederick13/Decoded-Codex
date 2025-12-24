@@ -35,10 +35,8 @@ image: /images/Home/DecodedCodex.jpg
 <script>
   const form = document.getElementById('contact-form');
   if (form) {
-    form.addEventListener('submit', () => {
-      setTimeout(() => {
-        form.reset();
-      }, 100);
+    window.addEventListener('pageshow', (event) => {
+      if (event.persisted) form.reset();
     });
   }
 </script>
