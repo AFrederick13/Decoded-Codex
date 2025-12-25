@@ -11,7 +11,7 @@ loadTopics: true
 
 # Decoded Codex
 
-## Your guide to exploring and understanding the world's diverse religions and philosophies.
+## Explore the world's religions and philosophies
 
 <div id="search"></div>
 

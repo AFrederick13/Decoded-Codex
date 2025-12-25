@@ -52,6 +52,14 @@ h1 {
 h2 {
   text-align: center;
   padding-bottom: 2rem;
+  line-height: 1.25;
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 2rem;
+  line-height: 1.25;
+  
 }
 
 .page-title {
