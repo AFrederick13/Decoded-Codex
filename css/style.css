@@ -128,11 +128,11 @@ footer a {
 
 .topic-page-image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;
-  object-fit: cover;
-  justify-content: center;
+  margin: 0 auto 2rem auto;
+  width: 50%;
+  object-fit: fill;
+  border: 2px solid #ffc35d;
+  border-radius: 10px;
 }
 
 #topic-grid {
