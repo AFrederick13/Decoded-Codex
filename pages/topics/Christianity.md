@@ -46,6 +46,30 @@ Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the follow
 
 ***revision in progress below:***
 
-Differing opinions by early followers was not uncommon, and several noteable groups emerged early on such as: The Jerusalem Community led by James the Just, The Pauline Communities established by Paul of Tarus, The Nazarenes, The Ebionites, The Gnostics, The Marcionites, The Montanists, The Proto-Orthodoxists, The Novatianists, The Monarchians, The Manichaeans, and The Desert Fathers.
+Differing opinions by early followers was not uncommon, and several noteable groups emerged early on such as:
+
+* The Jerusalem Community
+
+* The Pauline Communities
+
+* The Nazarenes
+
+* The Ebionites
+
+* The Gnostics
+
+* The Marcionites
+
+* The Montanists
+
+* The Proto-Orthodoxists
+
+* The Novatianists
+
+* The Monarchians
+
+* The Manichaeans
+
+* The Desert Fathers.
 
 ***work in progress***
