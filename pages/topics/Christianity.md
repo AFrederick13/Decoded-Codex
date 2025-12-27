@@ -14,13 +14,9 @@ tags:
 
 ## This topic is under development
 
-***work in progress***
-
 <br>
 
-Start Date:
-
-* 30's - 40's CE
+**Start Date:** 30s - 40s CE
 
 <br>
 
@@ -40,39 +36,47 @@ Early Founders:
 
 Primary Foundational Texts:
 
-* Gospels of Matthew, Mark, Luke, and John
+* The Four Canonical Gospels (Matthew, Mark, Luke, John)
 
-* Paul's Letters
+* The Pauline Epistles (Letters of Paul)
 
-* Acts of the Apostles
+* The Acts of the Apostles
 
-* General Epistles
+* The General (Catholic) Epistles
 
-* The Didache
+* The Didache (Early Apostolic Teaching)
 
 * Revelation of John
+
+<br>
 
 ---
 
 ## Summary
 
-A Christian is a person who adheres to a religion based on the life and teachings of Jesus of Nazareth, viewing him as a central figure of divine revelation and or human salvation.
+A Christian is a person who adheres to a religion based on the life and teachings of Jesus of Nazareth, viewing him as a central figure of divine revelation and/or human salvation.
 
-There are estimates of over 40,000 denominations of Christianity in the world. What being a Christian to one group or individual may vastly differ from that of another group, such as matters on The Trinity, salvation, and doctrine interpretation. Typically at its core the primary focus is on Jesus of Nazareth as regarded by scholars and by self identified Christians.
+Estimates suggest there are over 40,000 denominations and organizations of Christianity in the world. What it means to be a Christian can differ vastly between groups, particularly regarding the Trinity, salvation, and doctrinal interpretation. Typically at its core the primary focus is on Jesus of Nazareth as regarded by scholars and by self-identified Christians.
 
-<br>
+<br> 
 
 ---
 
 ## History
 
-Christianity, as it is called today, has gone through several events to shape it into the various forms it exists in now. Putting an exact time on when the religion of Christianity truly began opens up some debate. Theologically, it is most commonly accepted to have begun with the execution of Jesus (Yeshua ha-Notzri) and the interpretation of his role. The movement was primarily sparked by Jesus, attracting many members of Second Temple Judaism both during, and especially after his life. There were many followers of Second Temple Judaism at the time that were awaiting the fulfillment of Old Testament prophecies, including John the Baptist (Yochanan), who preached and baptized prior to the arrival of Jesus. Both Jesus and John the Baptist attracted followers early on, but also the attention of the then Roman administration. They were both considered a political threat as they amassed devoted followers in a relatively short period of time, thereby being considered as a potential uprising. Being considered leaders of such a fast growing movement under Roman rule was enough to warrant their executions. Particularly regarding Jesus as being labeled as "King of the Jews" by the Romans was a mark of treason to them. This acted as an even bigger catalyst to the Jewish community at the time in the formation of Christianity. Jesus's role was interpretated in many different ways by early followers, such as that of a wise master, a messenger, a prophet, a Son of God, an incarnation of God, a fully divine being, a mortal man, and an illusion of a material body (Docetic).
+Christianity, as it is called today, has gone through several events to shape it into the various forms it exists in now. Putting an exact time on when the religion of Christianity truly began opens up some debate. Theologically, it is most commonly accepted to have begun with the execution of Jesus (Yeshua ha-Notzri) and the interpretation of his role. The movement was primarily sparked by Jesus, attracting many members of Second Temple Judaism both during, and especially after his life. There were many followers of Second Temple Judaism at the time that were awaiting the fulfillment of Old Testament prophecies, including John the Baptist (Yochanan), who preached and baptized prior to the arrival of Jesus. Both Jesus and John the Baptist attracted followers early on, but also the attention of the then Roman administration. They were both considered a political threat as they amassed devoted followers in a relatively short period of time, thereby being considered as a potential uprising. Being considered leaders of such a fast growing movement under Roman rule was enough to warrant their executions. Labeling Jesus as "King of the Jews" by the Romans was a mark of treason against their authority. This label was meant as a mockery and criminal charge, which became a catalyst for several members of the Jewish community at the time in the formation of Christianity. Jesus's role was interpreted in many different ways by early followers, such as that of a wise master, a messenger, a prophet, a Son of God, an incarnation of God, a fully divine being, a mortal man, and an illusion of a material body (Docetic).
 
 Cephas (Simon/Simeon/Peter) and James the Just (Ya'akov) both strongly continued to lead the movement after Jesus, along with many of the already amassed followers. They engaged in meetings with already existing, and soon to be followers in the Temples and private homes, particularly in Jerusalem and the surrounding area. At this time the movement was referred to as "The Way", as the term Christian was not used until several years after Jesus's time. The early movement was still considered to be within much of the bounds of Judaism by the followers of "The Way", thus many Jewish laws such as Kosher diet and circumcision were still being practiced by the early members of the movement.
 
-Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus. Paul was responsible for further developments, claiming that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Several disagreements occured between Paul and James the Just, as James sought to continue the practices of Jewish laws. Paul appealed to many non-Jews, while James to the then Jewish-Christians. Both had considered themselves disciples of Jesus, but disagreed on several occasions on how to live and practice the religion.
+Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus. Paul was responsible for further developments, claiming that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Several disagreements occurred between Paul and James the Just, as James sought to continue the practices of Jewish laws, but had made some compromises with Paul on the gentiles. Paul appealed to many non-Jews, while James to the then Jewish-Christians. Both had considered themselves disciples of Jesus, but disagreed on several occasions on how to live and practice the religion. This continued between other followers of the forming religion, as several groups formed and split with their own doctrine interpretations.
+
+By the 4th century, Christianity underwent a massive transformation following the Edict of Milan, transitioning from a persecuted sect to the state religion of the Roman Empire. This institutionalization led to the formalization of doctrine through Ecumenical Councils such as the First Council of Nicaea, which also sparked reactionary movements among those who felt the doctrine or teachings was compromised.
 
 <br>
+
+---
+
+## Early Groups
 
 Differing opinions by early followers was not uncommon, and several notable groups emerged early on such as:
 
@@ -114,4 +118,12 @@ Monastic and Ascetic Groups:
 
 * The Desert Fathers and Mothers: Hermits and monastics who fled the increasingly institutionalized church for the Egyptian desert, seeking "white martyrdom" through prayer, celibacy, and extreme self-denial.
 
+* The Cenobites: Early monastic communities that emphasized shared life, labor, and prayer, providing a structured alternative to the solitary life of the hermits.
+
+<br>
+
+---
+
 ***work in progress***
+
+---
