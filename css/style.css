@@ -31,7 +31,7 @@ main {
   padding: .5rem;
 }
 
-p {
+p, main li {
   font-family: sans-serif;
   color: rgb(213, 203, 176);
   line-height: 1.75;
