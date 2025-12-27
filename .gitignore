@@ -3,3 +3,6 @@ node_modules
 
 # build output folder
 _site
+
+# context file
+PROJECT_CONTEXT.md
