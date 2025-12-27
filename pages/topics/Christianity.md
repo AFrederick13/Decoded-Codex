@@ -1,6 +1,7 @@
 ---
 title: Christianity
 layout: base.njk
+description: "Explore and understand Christianity."
 image: /images/topics/christianity.jpg
 tags:
   - Christianity

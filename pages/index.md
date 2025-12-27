@@ -1,7 +1,7 @@
 ---
 title: "Decoded Codex - Explore the Codex"
 layout: "base.njk"
-description: "Your guide to exploring and understanding the world's diverse religions and philosophies."
+description: "Explore the world's religions and philosophies."
 image: /images/Home/DecodedCodex.jpg
 eleventyExcludeFromCollections: true
 search: false
