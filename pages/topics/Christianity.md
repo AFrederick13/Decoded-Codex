@@ -12,29 +12,47 @@ tags:
 
 <img src="{{ image }}" alt="{{ title }}" class="topic-page-image">
 
-## This topic is under development
+<br>
+
+## Summary
+
+A Christian is a person who adheres to a religion based on the life and teachings of Jesus of Nazareth, viewing him as a central figure of divine revelation and/or human salvation.
+
+Estimates suggest there are about 2.3 - 2.6 billion adherents, with over 40,000 denominations and organizations of Christianity in the world. This makes Christianity the world's most popular religion, and one of the most diverse. What it means to be a Christian can differ vastly between groups, particularly regarding the Trinity, salvation, and doctrinal interpretation.
+
+<br> 
+
+---
 
 <br>
 
-**Start Date:** 30s - 40s CE
+**Membership:**
+
+* 2.3 - 2.6 billion adherents
 
 <br>
 
-Early Founders:
+**Starting Date:**
 
-* Jesus (Yeshua ha-Notzri)
-
-* James the Just/Jacob (Ya'akov)
-
-* Peter/Simon/Simeon (Cephas)
-
-* Paul (Saul)
-
-* Barnabas (Yosef)
+* 30s - 40s CE
 
 <br>
 
-Primary Foundational Texts:
+**Popular Denominations and membership:**
+
+* Catholic (1.3 billion)
+
+* Protestant (700 million)
+
+* Eastern Orthodox (300 million)
+
+* Oriental Orthodox (70 million)
+
+(Note: Numbers are Approximations)
+
+<br>
+
+**Primary Foundational Texts:**
 
 * The Four Canonical Gospels (Matthew, Mark, Luke, John)
 
@@ -50,27 +68,43 @@ Primary Foundational Texts:
 
 <br>
 
+**Early Founders:**
+
+* Jesus (Yeshua ha-Notzri)
+
+* James the Just/Jacob (Ya'akov)
+
+* Peter/Simon/Simeon (Cephas)
+
+* Paul (Saul)
+
+* Barnabas (Yosef)
+
+<br>
+
 ---
 
-## Summary
+## Popular Verses
 
-A Christian is a person who adheres to a religion based on the life and teachings of Jesus of Nazareth, viewing him as a central figure of divine revelation and/or human salvation.
+***"For God so loved the world, that He gave His only Son, so that everyone who believes in Him will not perish, but have eternal life."*** ~ John 3:16 (NASB)
 
-Estimates suggest there are over 40,000 denominations and organizations of Christianity in the world. What it means to be a Christian can differ vastly between groups, particularly regarding the Trinity, salvation, and doctrinal interpretation. Typically at its core the primary focus is on Jesus of Nazareth as regarded by scholars and by self-identified Christians.
+<br>
 
-<br> 
+***"Teacher, which is the great commandment in the Law?" And He said to him, "'You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.' This is the great and foremost commandment. The second is like it, 'You shall love your neighbor as yourself.' Upon these two commandments hang the whole Law and the Prophets."*** ~ Matthew 22:36 - 40 (NASB)
+
+<br>
 
 ---
 
-## History
+## Early History
 
 Christianity, as it is called today, has gone through several events to shape it into the various forms it exists in now. Putting an exact time on when the religion of Christianity truly began opens up some debate. Theologically, it is most commonly accepted to have begun with the execution of Jesus (Yeshua ha-Notzri) and the interpretation of his role. The movement was primarily sparked by Jesus, attracting many members of Second Temple Judaism both during, and especially after his life. There were many followers of Second Temple Judaism at the time that were awaiting the fulfillment of Old Testament prophecies, including John the Baptist (Yochanan), who preached and baptized prior to the arrival of Jesus, having followers of his own sect already. Both Jesus and John the Baptist attracted followers early on, but also the attention of the then Roman administration. They were both considered a political threat as they amassed devoted followers in a relatively short period of time, thereby being considered as a potential uprising. Being considered leaders of fast growing movements under Roman rule was enough to warrant their executions. Labeling Jesus as "King of the Jews" by the Romans was a mark of treason against their authority. This label was meant as a mockery and criminal charge, which became a catalyst for several members of the Jewish community at the time in the formation of Christianity. Jesus's role was interpreted in many different ways by early followers, such as that of a wise master, a messenger, a prophet, a Son of God, an incarnation of God, a fully divine being, a mortal man, and even an illusion of a material body (Docetic).
 
-Peter (Cephas/Simon/Simeon) and James the Just (Ya'akov) both strongly continued to lead the movement after Jesus, along with many of the already amassed followers. They engaged in meetings with already existing, and soon to be followers in the Temples and private homes, particularly in Jerusalem and the surrounding area. At this time the movement was referred to as "The Way", as the term "Christian" was not used until several years afterwards. The early movement was still considered to be within much of the bounds of Judaism by the followers of "The Way", thus many Jewish laws such as Kosher diet and circumcision were still being practiced by the early members of the movement.
+Peter (Cephas/Simon/Simeon) and James the Just (Ya'akov) both strongly continued to lead the movement after Jesus, along with many of the already amassed followers. They engaged in meetings with already existing, and soon to be followers in the Temples and private homes, particularly in Jerusalem and the surrounding area. Both Peter and James personally knew Jesus during his life, adding credibility to their message. At this time the movement was referred to as "The Way", as the term "Christian" was not used until several years afterwards. The early movement was still considered to be within much of the bounds of Judaism by the followers of "The Way", thus many Jewish laws such as Kosher diet and circumcision were still being practiced by the early members of the movement.
 
-Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus. Paul was responsible for further developments, claiming that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Several disagreements occurred between Paul and James the Just, as James sought to continue the practices of Jewish laws, but had made some compromises with Paul on the gentiles. Paul appealed to many non-Jews, while James to the then Jewish-Christians. Both had considered themselves disciples of Jesus, but disagreed on several occasions on how to live and practice the religion. This continued between other followers of the forming religion, as several groups formed and split with their own doctrine interpretations.
+Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus on the road to Damascus. Barnabas (Yosef), donated large amounts to assist the early Jerusalem Church, and vouched for Paul to the early community. Barnabas and Paul had gone on some of the first missionary trips to spread the gospel throughout the region. Paul became responsible for other further developments, claiming that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Several disagreements occurred between Paul and James the Just, as James sought to continue the practices of Jewish laws, but made some compromises with Paul on the Gentiles. Paul appealed to many non-Jews, while James to the then Jewish-Christians. Both had considered themselves disciples of Jesus, but disagreed on several occasions on how to live and practice the religion. This continued between other followers of the forming religion, as several groups formed and split with their own doctrine interpretations.
 
-By the 4th century, Christianity underwent a massive transformation following the Edict of Milan, transitioning from a persecuted sect to the state religion of the Roman Empire. This institutionalization led to the formalization of doctrine through Ecumenical Councils such as the First Council of Nicaea, which also sparked reactionary movements among those who felt the doctrine or teachings was compromised.
+By the 4th century, Christianity underwent a massive transformation following the Edict of Milan, transitioning from a persecuted sect to the state religion of the Roman Empire. This institutionalization led to the formalization of doctrine through Ecumenical Councils such as the First Council of Nicaea, which also sparked reactionary movements among those who felt the doctrine or teachings were compromised.
 
 <br>
 
@@ -124,6 +158,6 @@ Monastic and Ascetic Groups:
 
 ---
 
-***work in progress***
+***Work in Progress - To Be Continued***
 
 ---
