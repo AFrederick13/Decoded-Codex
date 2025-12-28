@@ -28,7 +28,7 @@ body {
 main {
   max-width: 120ch;
   margin: auto;
-  padding: .5rem;
+  padding: .75rem;
 }
 
 p, main li {
