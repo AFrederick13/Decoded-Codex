@@ -20,7 +20,9 @@ tags:
 
 ## Summary
 
-A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the Buddha), viewing him as an enlightened teacher who discovered the path to liberation from suffering. There are roughly 300 - 500 million adherents, making it the world's fourth-largest religion, although it may be classified as a philosophy instead depending on practice. Being a Buddhist can differ between traditions, particularly regarding the nature of the Buddha, the methods of practice (meditation vs. devotion), and the specific scriptures held as authoritative.
+A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the Buddha), viewing him as an enlightened teacher who discovered the path to liberation from suffering.
+
+There are roughly 300 - 500 million adherents, making it the world's fourth-largest religion, although it may be classified as a philosophy instead depending on how it is practiced. Being a Buddhist can differ significantly between traditions, particularly regarding the nature of the Buddha, the methods of practice, and the specific scriptures held as authoritative.
 
 <br> 
 
@@ -32,8 +34,6 @@ A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the B
 
 * 300 - 500 million adherents
 
-(over 1 billion "cultural" or "lay" members)
-
 <br>
 
 **Starting Date:**
@@ -42,17 +42,19 @@ A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the B
 
 <br>
 
-**Popular Denominations and membership:** (Branches instead of denom???)
+**Popular branches and membership:**
 
-* Mahayana (53% - 62%)
+* **Mahayana** ('Great Vehicle') 53% - 62% of followers
+  
+  * The largest branch, focused on the altruistic intention to become enlightened for the sake of all beings.
 
-* Theravada (35% - 38%)
+* **Theravada** ('School of the Elders') 35% - 38% of followers
 
-* Vajrayana (6%)
+  * The oldest surviving school, emphasizing the attainment of self-liberation
 
-(Note: Vajrayana is often categorized under Mahayana in broad surveys but remains distinct in practice)
+* **Vajrayana** ('Indestructible Vehicle') 6% of followers
 
-(Note: Numbers are approximations)
+  * While often categorized under the Mahayana umbrella, it remains a distinct tradition characterized by tantric and esoteric practices.
 
 <br>
 
