@@ -16,7 +16,7 @@ function initSearch() {
         if (!form.name) form.name = 'search-form';
     }
 
-    // Add a click listener to the search container to make results clickable
+    // Add a click listener to the search container to make results full clickable
     // Using "mousedown" is more reliable than "click" for navigation events.
     searchContainer.addEventListener('mousedown', (e) => {
         // Find the top-level result item that was clicked on.
