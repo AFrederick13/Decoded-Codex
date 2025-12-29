@@ -188,6 +188,7 @@ footer a {
   text-shadow: none;
 }
 
+/* text shadow appears blurry on search bar, this removes it */
 .pagefind-ui .pagefind-ui__search-input{
   text-shadow: none;
 }
