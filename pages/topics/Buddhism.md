@@ -15,9 +15,6 @@ tags:
 
 <br>
 
-<!-- under revision -->
-<!-- rough draft -->
-
 ## Summary
 
 A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the Buddha), viewing him as an enlightened teacher who discovered the path to liberation from suffering.
@@ -42,7 +39,7 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 <br>
 
-**Popular branches and membership:**
+**Popular branches:**
 
 * **Mahayana** ('Great Vehicle') 53% - 62% of followers
   
@@ -50,29 +47,49 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 * **Theravada** ('School of the Elders') 35% - 38% of followers
 
-  * The oldest surviving school, emphasizing the attainment of self-liberation
+  * The oldest surviving school, emphasizing the attainment of self-liberation.
 
-* **Vajrayana** ('Indestructible Vehicle') 6% of followers
+* **Vajrayana** ('Diamond Vehicle') 6% of followers
 
-  * While often categorized under the Mahayana umbrella, it remains a distinct tradition characterized by tantric and esoteric practices.
+  * While often categorized under the Mahayana umbrella, it remains a distinct tradition characterized by tantric and esoteric practices aimed at rapid enlightenment.
 
 <br>
 
 **Primary Foundational Texts:**
 
-* The Tripitaka / Pali Canon (Vinaya, Sutta, Abhidhamma)
+* Theravada Authority: The Pali Canon (Tipitaka)
 
-* The Mahayana Sutras (e.g., Lotus Sutra, Heart Sutra, Diamond Sutra) ???
+  * Primary Texts: Vinaya Piṭaka (Discipline/Rules), Sutta Piṭaka (Discourses/Sayings), and Abhidhamma Piṭaka (Philosophy).
 
-* The Tibetan Canon (Kangyur and Tengyur) ???
+  * Description: The complete "Triple Basket" preserved in the Pali language, and the oldest surviving texts of Buddhism.
+
+  * Authority: For Theravada, this is the sole and final authority. They generally view later texts as non-canonical or unverified.
+
+* The Mahayana Authority: The Mahayana Sutras
+
+  * Primary Texts: The Lotus Sutra, Heart Sutra, Diamond Sutra, Avataṃsaka Sutra, Lankavatara Sutra, Pure Land Sutras, etc.
+
+  * Description: These texts emerged later in written form and record the "Bodhisattva Path", the goal of staying in the cycle of rebirth for the sake of all beings.
+
+  * Authority: For Mahayana, these are often regarded as the highest authority. They view the earlier Pali texts as "elementary" or "foundational" teachings.
+
+* The Vajrayana Authority: The Tantras (Broad Vajrayana) and The Tibetan Canon (Tibetan Buddhism - A form of Vajrayana)
+
+  * Primary Texts: The Tantras (vast collection(s) used in various schools of Vajrayana) and The Kangyur and Tengyur (used in Tibetan Buddhism).
+
+  * Description: These focus on "esoteric" practices using ritual, visualization, and mudras to achieve enlightenment in a single lifetime.
+
+  * Authority: For Vajrayana, the Tantras are the definitive authority. They accept all the layers below (Early Discourses + Mahayana Sutras) but view Tantra as the "secret" or most effective "Diamond" path.
 
 <br>
 
 **Early Founders:**
 
-* Siddhartha Gautama (The Buddha/Shakyamuni???)
+* Siddhartha Gautama (The Buddha)
 
-* continued...
+* Ānanda (Attendant of the Buddha)
+
+* Mahāprajāpatī Gautamī (First ordained Woman)
 
 <br>
 
@@ -80,11 +97,11 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 ## Popular Verses
 
-***"insert verse"*** ~
+***"Mind precedes all mental states. Mind is their chief; they are all mind-made. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox."*** ~ Dhammapada 1:1
 
 <br>
 
-***"insert verse"*** ~
+***"Om mani padme hum"*** ~ Kāraṇḍavyūha Sūtra
 
 <br>
 
@@ -92,55 +109,13 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 ## Early History
 
-<!-- copy pasted template, need to heavily edit and revise below -->
+Buddhism developed from the teachings of Siddhartha Gautama (the Buddha) in the region of ancient India and Nepal. The precise dates of his life are debated, but generally place his death between 483 and 400 BCE. Siddhartha was said to be a former prince who renounced his royal life to find the end of suffering, eventually attaining Enlightenment (Bodhi) in meditation under a Bodhi tree. He spent the next 45 years teaching his doctrines, including the "Middle Way", a path between extreme asceticism and sensual indulgence.
 
-Buddhism developed from the teachings of Siddhartha Gautama in the Magadha region of ancient India. The exact dates of his life are debated, but modern scholarship generally places his death between 483 and 400 BCE. The movement began as a sect of "Sramanas" (wandering ascetics) who rejected the authority of the Vedas and the caste system of Brahmanism. Siddhartha, a former prince who renounced his royal life to find the end of suffering, attained Enlightenment (Bodhi) under a Bodhi tree. He spent the next 45 years teaching the "Middle Way"—a path between extreme asceticism and sensual indulgence.
+The movement initially consisted of a small group of monastic followers (the Sangha) who wandered with the Buddha, and lay supporters who provided them with food and robes. The Buddha gained the patronage of kings like Bimbisara and Pasenadi, allowing the Sangha (assembly) to grow rapidly, gathering several thousand followers. After the Buddha's death, his teachings were preserved orally, until eventually being written down in the 1st century BCE.
 
-The movement initially consisted of a small group of monastic followers (the Sangha) who wandered with the Buddha, and lay supporters who provided them with food and robes. Unlike the political tensions surrounding early Christianity, the Buddha gained the patronage of powerful kings like Bimbisara and Pasenadi, allowing the Sangha to grow rapidly. However, the movement faced internal challenges. After the Buddha's death (Parinirvana), his teachings were preserved orally.
+Differing interpretations over monastic rules and the nature of an Arhat (enlightened being) eventually led to the first major schism roughly a century later. This split the community into the Sthavira Nikāya (Elders) and the Mahāsāṃghika (Great Assembly), forming different opinions on several matters, particularly with rules to be obeyed.
 
-The First Buddhist Council was held shortly after his death to standardize the doctrine (Dhamma) and monastic discipline (Vinaya). While successful initially, disagreements over the strictness of monastic rules and the nature of an Arhat (enlightened being) led to the first major schism roughly a century later at the Second Buddhist Council. This split the community into the Sthaviravada (Elders) and the Mahasamghika (Great Assembly).
-
-During the 3rd century BCE, under the patronage of Emperor Ashoka of the Mauryan Empire, Buddhism transformed from a regional Ganges sect into a trans-regional religion. Ashoka sent missionaries as far as Greece, Sri Lanka, and Southeast Asia. Following this expansion, doctrinal interpretations continued to diverge, leading to the "18 Early Schools" and eventually the rise of the Mahayana movement around the 1st century BCE, which introduced new scriptures and the ideal of the Bodhisattva.
-
-<br>
-
----
-
-## Early Groups
-
-<!-- copy pasted template, need to heavily edit and revise below-->
-
-Differing philosophical interpretations led to the formation of several distinct schools in the early centuries:
-
-The Early Disciples (The Original Sangha):
-
-* The Sravakas: The direct "hearers" of the Buddha who aimed for Arhatship (personal liberation). They preserved the oral tradition of the Sutras and Vinaya.
-
-* The Forest Dwellers (Aranyakas): Monks who preferred solitude in the wilderness over the settled communal life of the monasteries, emphasizing strict meditation and asceticism.
-
-The Conservative Schools (Sthavira Lineage):
-
-* The Sthaviravada: The "Teaching of the Elders." They emphasized strict adherence to the original Vinaya (rules) and rejected new doctrinal innovations. They are the ancestors of modern Theravada.
-
-* The Sarvastivada: A highly influential school in Northern India. They taught that "all dharmas exist" in the past, present, and future (Pan-realism), creating a massive corpus of Abhidharma (philosophical analysis) texts.
-
-* The Vibhajjavada: The "Distinctionists." They rejected the Sarvastivada view, arguing that only the present moment and unripened karma exist. This group eventually spread to Sri Lanka and evolved into the Theravada tradition.
-
-The Majority Schools (Mahasamghika Lineage):
-
-* The Mahasamghika: The "Great Assembly." They split from the Elders, arguing for a more flexible interpretation of monastic rules. They held a "supramundane" view of the Buddha, believing his physical body was a mere appearance, paving the way for Mahayana theology.
-
-* The Caitika: An offshoot of the Mahasamghika in Southern India. They were known for worshiping stupas (reliquary mounds) and believed the Buddha was transcendent and beyond the laws of the world.
-
-The Personalist Groups:
-
-* The Pudgalavada: The "Personalists." A controversial group that argued for the existence of a subtle "person" (pudgala) that transmigrates between lives, which other schools attacked as contradicting the core Buddhist doctrine of Anatta (Non-Self).
-
-The Early Mahayana Groups (The Great Vehicle):
-
-* The Madhyamaka: Founded by Nagarjuna (c. 2nd century CE). They focused on the "Perfection of Wisdom" scriptures and the philosophy of Emptiness (Sunyata), arguing that all phenomena are empty of inherent existence.
-
-* The Yogacara: Developing slightly later (c. 4th century CE), this school focused on the nature of consciousness. They argued that external reality is merely a projection of the mind (Citta-matra or "Mind-Only").
+During the 3rd century BCE, under the patronage of Emperor Ashoka of the Mauryan Empire, Buddhism transformed from a regional Ganges sect into a trans-regional religion. Ashoka is heavily credited with spreading Buddhism by supporting missionaries, providing donations, constructing pillars inscribed with moral principles, and building numerous Buddhist Stupas (shrines). Following this expansion, doctrinal interpretations continued to diverge. Around the 1st century BCE the Mahayana movement emerged as a distinct movement, with expanded canonical scriptures that presented the Bodhisattva path (attaining enlightenment for the benefit of all beings).
 
 <br>
 
