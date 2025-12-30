@@ -2,7 +2,7 @@
 
 ## Live Site URL:  <https://www.decodedcodex.com/>
 
-### Video Demo URL:  <URL HERE>
+### Video Demo URL:  <https://youtu.be/5XoITqGJ7Yo?si=PnV3PVHmgjzhEeec>
 
 ---
 
@@ -38,9 +38,9 @@ After making changes to the code, run in terminal:
 
 #### Description
 
-Decoded Codex is a website for exploring the world's various Religions and Philosophies. I have been heavily interested in studying Religion and Philosophy for over ten years, and frequently find people misunderstanding these topics. This website is both for others - that they can learn about these subjects that shape our world and societies, and for me - to finally document my own research in writting (or code!).
+Decoded Codex is a website for exploring the world's various Religions and Philosophies. I have been heavily interested in studying Religion and Philosophy for over ten years, and frequently find people misunderstanding these topics. This website is both for others - that they can learn about these subjects that shape our world and societies, and for me - to finally document my own research in writing (or code!).
 
-Decodedcodex.com launched live offically (very bare bones) on October 1st of 2025, but I first began the development around September 21st of 2025. You can follow my commit history and everything I have done on my GitHub (linked on the bottom of every page on the site). Quite a bit a research went into what the site should look like, the tools to use, and the entire process of development. SSG (Static Site Generators) seemed to be a good choice for consistantly structuring the code and writing markdown files for ease of content updates, as this will be a text/article heavy site. I choose to use Eleventy (11ty), as the learning curve seemed a bit easier, runs in JavaScript (a language I am familar with already), and still allows for alot of control over the project.
+Decodedcodex.com launched live officially (very bare bones) on October 1st of 2025, but I first began the development around September 21st of 2025. You can follow my commit history and everything I have done on my GitHub (linked on the bottom of every page on the site). Quite a bit a research went into what the site should look like, the tools to use, and the entire process of development. SSG (Static Site Generators) seemed to be a good choice for consistantly structuring the code and writing markdown files for ease of content updates, as this will be a text/article heavy site. I choose to use Eleventy (11ty), as the learning curve seemed a bit easier, runs in JavaScript (a language I am familiar with already), and still allows for alot of control over the project.
 
 Going through the entire process from just simply having a homepage on a local development server, to building and deploying the project live required alot more than I had realized at first, but I learned so many things along the way. I wanted to try to follow modern development industry standards to familiarize my self with at the least a somewhat professional development process.
 
