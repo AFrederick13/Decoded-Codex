@@ -2,8 +2,6 @@
 
 ## Live Site URL:  <https://www.decodedcodex.com/>
 
-### Video Demo URL:  <https://youtu.be/5XoITqGJ7Yo?si=PnV3PVHmgjzhEeec>
-
 ---
 
 ### Table of Contents
