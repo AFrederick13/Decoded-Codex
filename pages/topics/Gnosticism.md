@@ -1,7 +1,7 @@
 ---
 title: Gnosticism
 layout: base.njk
-image: /images/topics/gnosticism.jpg
+image: /images/topics/gnosticism.webp
 tags:
   - Religion
   - Gnosticism

@@ -2,7 +2,7 @@
 title: Christianity
 layout: base.njk
 description: "Explore and understand Christianity."
-image: /images/topics/christianity.jpg
+image: /images/topics/christianity.webp
 tags:
   - Christianity
   - Religion
@@ -11,7 +11,7 @@ tags:
 
 # Christianity
 
-<img src="{{ image }}" alt="{{ title }}" class="topic-page-image">
+<img src="{{ image }}" alt="{{ title }}" class="topic-page-image" fetchpriority="high" decoding="async">
 
 <br>
 

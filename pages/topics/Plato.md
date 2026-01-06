@@ -1,7 +1,7 @@
 ---
 title: Plato
 layout: base.njk
-image: /images/topics/plato.png
+image: /images/topics/plato.webp
 eleventyExcludeFromCollections: true
 search: false
 tags:

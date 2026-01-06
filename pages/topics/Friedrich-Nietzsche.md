@@ -1,7 +1,7 @@
 ---
 title: Friedrich Nietzsche
 layout: base.njk
-image: /images/topics/friedrich-nietzsche.jpg
+image: /images/topics/friedrich-nietzsche.webp
 eleventyExcludeFromCollections: true
 search: false
 tags:

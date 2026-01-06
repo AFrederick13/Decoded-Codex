@@ -1,7 +1,7 @@
 ---
 title: Hinduism
 layout: base.njk
-image: /images/topics/hinduism.jpg
+image: /images/topics/hinduism.webp
 tags:
   - Hinduism
   - Religion

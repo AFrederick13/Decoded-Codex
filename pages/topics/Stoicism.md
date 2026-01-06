@@ -1,7 +1,7 @@
 ---
 title: Stoicism
 layout: base.njk
-image: /images/topics/stoicism.jpg
+image: /images/topics/stoicism.webp
 tags:
   - Stoicism
   - Philosophy
