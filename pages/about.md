@@ -7,7 +7,7 @@ image: /images/Home/DecodedCodex.webp
 
 # About Decoded Codex
 
-<img src="/images/Home/DecodedCodex.webp" alt="A open book written in an unknown language" id="site-image">
+<img src="/images/Home/DecodedCodex.webp" alt="A open book written in an unknown language" id="site-image" fetchpriority="high" decoding="async">
 
 A personal project first launched on October 1st 2025, this website is actively under construction. I plan to update the website frequently, and there will be many changes over time.
 

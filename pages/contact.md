@@ -31,7 +31,7 @@ image: /images/Home/DecodedCodex.webp
 
 <p id="contact-form-status"></p>
 
-<img src="/images/Home/DecodedCodex.webp" alt="A open book written in an unknown language" id="site-image">
+<img src="/images/Home/DecodedCodex.webp" alt="A open book written in an unknown language" id="site-image" fetchpriority="high" decoding="async">
 
 <script>
   const form = document.getElementById('contact-form');
