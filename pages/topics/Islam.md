@@ -1,7 +1,7 @@
 ---
 title: Islam
 layout: base.njk
-image: /images/topics/islam.jpg
+image: /images/topics/islam.webp
 tags:
   - Islam
   - Religion

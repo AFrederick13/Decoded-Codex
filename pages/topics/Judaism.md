@@ -1,7 +1,7 @@
 ---
 title: Judaism
 layout: base.njk
-image: /images/topics/judaism.jpg
+image: /images/topics/judaism.webp
 tags:
   - Judaism
   - Religion

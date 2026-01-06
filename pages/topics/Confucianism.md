@@ -1,7 +1,7 @@
 ---
 title: Confucianism
 layout: base.njk
-image: /images/topics/confucianism.jpg
+image: /images/topics/confucianism.webp
 tags:
   - Confucianism
   - Eastern

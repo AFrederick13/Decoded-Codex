@@ -1,7 +1,7 @@
 ---
 title: Hermeticism
 layout: base.njk
-image: /images/topics/hermeticism.jpg
+image: /images/topics/hermeticism.webp
 tags:
   - Hermeticism
   - Hermetica

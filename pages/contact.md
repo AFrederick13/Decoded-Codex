@@ -2,7 +2,7 @@
 title: Contact Decoded Codex
 layout: base.njk
 description: "Connect with Decoded Codex easily. Use our contact form to send messages, ask questions, or provide feedback. We're here to listen and assist you on your journey of discovery."
-image: /images/Home/DecodedCodex.jpg
+image: /images/Home/DecodedCodex.webp
 ---
 
 # Contact Decoded Codex
@@ -31,7 +31,7 @@ image: /images/Home/DecodedCodex.jpg
 
 <p id="contact-form-status"></p>
 
-<img src="/images/Home/DecodedCodex.jpg" alt="A open book written in an unknown language" id="site-image">
+<img src="/images/Home/DecodedCodex.webp" alt="A open book written in an unknown language" id="site-image">
 
 <script>
   const form = document.getElementById('contact-form');

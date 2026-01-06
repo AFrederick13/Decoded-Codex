@@ -1,7 +1,7 @@
 ---
 title: Voltaire
 layout: base.njk
-image: /images/topics/voltaire.jpg
+image: /images/topics/voltaire.webp
 eleventyExcludeFromCollections: true
 search: false
 tags:

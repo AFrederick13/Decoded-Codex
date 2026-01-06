@@ -1,7 +1,7 @@
 ---
 title: Wicca
 layout: base.njk
-image: /images/topics/wicca.jpg
+image: /images/topics/wicca.webp
 tags:
   - Wicca
   - Religion

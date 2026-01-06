@@ -1,7 +1,7 @@
 ---
 title: Mormonism
 layout: base.njk
-image: /images/topics/mormonism.jpg
+image: /images/topics/mormonism.webp
 tags:
   - Religion
   - Mormonism

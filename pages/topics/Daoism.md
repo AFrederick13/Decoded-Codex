@@ -1,7 +1,7 @@
 ---
 title: Daoism
 layout: base.njk
-image: /images/topics/daoism.jpg
+image: /images/topics/daoism.webp
 tags:
   - Philosophy
   - Religion

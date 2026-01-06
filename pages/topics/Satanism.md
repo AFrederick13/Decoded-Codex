@@ -1,7 +1,7 @@
 ---
 title: Satanism
 layout: base.njk
-image: /images/topics/satanism.jpg
+image: /images/topics/satanism.webp
 tags:
   - Satanism
   - Religion

@@ -2,7 +2,7 @@
 title: Buddhism
 layout: base.njk
 description: "Explore and understand Buddhism."
-image: /images/topics/buddhism.jpg
+image: /images/topics/buddhism.webp
 tags:
   - Buddhism
   - Religion
