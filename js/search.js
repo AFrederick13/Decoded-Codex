@@ -1,9 +1,14 @@
+// Pagefind search initialization script
 function initSearch() {
+
+    // Check if PagefindUI is available
     if (typeof PagefindUI === 'undefined') return;
 
+    // Check if the search container exists
     const searchContainer = document.querySelector("#search");
     if (!searchContainer) return;
 
+    // Initialize PagefindUI
     new PagefindUI({
         element: "#search",
         showSubResults: true
