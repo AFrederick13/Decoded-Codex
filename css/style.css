@@ -109,6 +109,7 @@ nav li:hover a {
 footer {
   margin: auto;
   text-align: center;
+  padding: 1em;
 }
 
 footer a {
@@ -288,6 +289,14 @@ button[type="reset"]:hover {
 @media (max-width: 600px) {
   nav {
     margin: auto;
+  }
+
+  nav ul {
+    gap: 0.25rem;
+  }
+
+  nav li {
+    width: auto;
   }
 
   #topic-grid {
