@@ -17,9 +17,9 @@ tags:
 
 ## Summary
 
-A Christian is a person who adheres to a religion based on the life and teachings of Jesus of Nazareth, viewing him as a central figure of divine revelation and/or human salvation.
+A Christian is a person who adheres to a religion based on the life and teachings of Jesus Christ, viewing him in some form as a central figure of divine revelation and/or human salvation.
 
-Estimates suggest there are about 2.3 - 2.6 billion adherents, with over 40,000 denominations and organizations of Christianity in the world. This makes Christianity the world's most popular religion, and one of the most diverse. What it means to be a Christian can differ vastly between groups, particularly regarding the Trinity, salvation, and doctrinal interpretation.
+Estimates suggest there are about 2.3 - 2.6 billion adherents, with over 40,000 denominations and organizations of Christianity in the world. This makes Christianity the world's most popular religion, and one of the most diverse. What it means to be a Christian can differ vastly between groups, particularly regarding the Trinity, salvation, and other doctrinal interpretations.
 
 <br> 
 
@@ -63,9 +63,7 @@ Estimates suggest there are about 2.3 - 2.6 billion adherents, with over 40,000 
 
 * The General Epistles
 
-* Revelation of John
-
-* The Didache (Early Apostolic teaching; extra-canonical)
+* The Book of Revelation
 
 <br>
 
@@ -99,13 +97,15 @@ Estimates suggest there are about 2.3 - 2.6 billion adherents, with over 40,000 
 
 ## Early History
 
-Christianity, as it is called today, has gone through several events to shape it into the various forms it exists in now. Putting an exact time on when the religion of Christianity truly began opens up some debate. Theologically, it is most commonly accepted to have begun with the execution of Jesus (Yeshua ha-Notzri) and the interpretation of his role. The movement was primarily sparked by Jesus, attracting many members of Second Temple Judaism both during, and especially after his life. There were many followers of Second Temple Judaism at the time that were awaiting the fulfillment of Old Testament prophecies, including John the Baptist (Yochanan), who preached and baptized prior to the arrival of Jesus, having followers of his own sect already. Both Jesus and John the Baptist attracted followers early on, but also the attention of the then Roman administration. They were both considered a political threat as they amassed devoted followers in a relatively short period of time, thereby being considered as a potential uprising. Being considered leaders of fast-growing movements under Roman rule was enough to warrant their executions. Labeling Jesus as "King of the Jews" by the Romans was a mark of treason against their authority. This label was meant as a mockery and criminal charge, which became a catalyst for several members of the Jewish community at the time in the formation of Christianity. Jesus's role was interpreted in many different ways by early followers, such as that of a wise master, a messenger, a prophet, a Son of God, an incarnation of God, a fully divine being, a mortal man, and even an illusion of a material body (Docetic).
+Christianity, as it is called today, has gone through several events to shape it into the various forms it exists in now. Putting an exact time on when the religion of Christianity truly began, opens up some debate. Theologically, it is most commonly accepted to have begun with the execution of Jesus (Yeshua ha-Notzri) and the interpretation of his role and teachings, separating it from Judaism. Jesus is widely regarded by historians and scholars to have been a real living historical figure, as he is directly mentioned in several non-biblical sources such as by: Flavius Josephus, Cornelius Tacitus, Pliny the Younger, and Suetonius.
 
-Peter (Cephas/Simon/Simeon) and James the Just (Ya'akov) both strongly continued to lead the movement after Jesus, along with many of the already amassed followers. They engaged in meetings with already existing, and soon-to-be followers in the Temples and private homes, particularly in Jerusalem and the surrounding area. Both Peter and James personally knew Jesus during his life, adding credibility to their message. At this time the movement was referred to as "The Way"; the term "Christian" was not used until several years later, originating in the city of Antioch. The early movement was still considered to be within much of the bounds of Judaism by the followers of "The Way", thus many Jewish laws such as Kosher diet and circumcision were still being practiced by the early members of the movement.
+The Christian movement primarily gained early attraction by followers of Jesus, particularly by many members of Second Temple Judaism both during, and especially after his life. There were many followers of Second Temple Judaism at the time that were awaiting the fulfillment of Old Testament prophecies, including John the Baptist (Yochanan), who preached and baptized prior to the arrival of Jesus, having followers of his own sect already. Both Jesus and John the Baptist attracted followers early on, but also the attention of the current Roman administration. They were both considered a political threat as they amassed devoted followers in a relatively short period of time, thereby being viewed as a potential uprising. Being considered leaders of fast-growing and unpredictable reformation movements under Roman rule was enough to warrant their executions. Labeling Jesus as "King of the Jews" by the Romans was a public mark of treason against their authority. This label was meant as a mockery and criminal charge, which became a catalyst for several members of the Jewish community at the time in the formation of Christianity, who were already displeased with Roman rule. Jesus's role was interpreted in many different ways by early followers, such as: a wise master, a messenger, a prophet, a Son of God, an incarnation of God, a fully divine being, and even just as an illusion of a man (Docetic).
 
-Paul of Tarsus (Saul) had at the time persecuted and sought to arrest the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus on the road to Damascus. Barnabas (Yosef), donated large amounts to assist the early Jerusalem Church, and vouched for Paul to the early community. Barnabas and Paul had gone on some of the first missionary trips to spread the gospel throughout the region. Paul became responsible for other further developments, claiming that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Several disagreements occurred between Paul and James the Just, as James sought to continue the practices of Jewish laws, but made some compromises with Paul on the Gentiles. Paul appealed to many non-Jews, while James to the then Jewish-Christians. Both had considered themselves disciples of Jesus, but disagreed on several occasions on how to live and practice the religion. This continued between other followers of the forming religion, as several groups formed and split with their own doctrine interpretations.
+Peter (Cephas/Simon/Simeon) and James the Just (Ya'akov) both continued to lead the movement after Jesus, along with many of the already amassed followers. They engaged in meetings with already existing, and soon-to-be followers in the Temples and private homes, particularly in Jerusalem and the surrounding area. Both Peter and James are said to have personally known Jesus during his life, adding credibility to their message. At this time the movement was referred to as "The Way"; the term "Christian" was not used until several years later, originating in the city of Antioch. The early movement was still considered to be within the bounds of Judaism by the followers of "The Way", thus many Jewish laws such as Kosher diet and circumcision were still being practiced by the early members of the movement.
 
-By the 4th century, Christianity underwent a massive transformation following the Edict of Milan, transitioning from a persecuted sect to the state religion of the Roman Empire. This institutionalization led to the formalization of doctrine through Ecumenical Councils such as the First Council of Nicaea, which also sparked reactionary movements among those who felt the doctrine or teachings were compromised.
+Paul of Tarsus (Saul) is said to have at the time persecuted, and sought the arrest of the followers of the movement, before becoming converted himself after his proclaimed vision of Jesus on the road to Damascus. Barnabas (Yosef), donated large amounts to assist the early Jerusalem Church, and vouched for Paul to the early community. Barnabas and Paul had gone on some of the first missionary trips to spread the forming religion throughout the region. Paul is typically considered responsible for other further developments, wishing that non-Jews should be welcomed into the movement, and that followers should be free from obeying many of the historical laws of Judaism. While there were people who welcomed these changes, others disagreed. Notable disagreements are said to have occurred between Paul and James the Just, as James sought to continue the practices of Jewish laws, but made some compromises with Paul on the Gentiles. Paul appealed to many non-Jews, while James to the Jewish-Christians. Both had considered themselves to be disciples of Jesus, but disagreed on several occasions on how to live and practice the religion. This continued between several other followers of the forming religion, as multiple groups formed and split with their own doctrine interpretations.
+
+The 4th century marked a pivotal transformation for Christianity. Following the Edict of Milan, the faith transitioned from a persecuted sect toward its eventual role as the state religion of Rome. This institutionalization—along with the diversity of beliefs in early Christian groups—sparked a formalization of doctrine through Ecumenical Councils, such as the First Council of Nicaea. However, these attempts to codify the religion also sparked reactionary movements among those who felt the original teachings had been compromised, a cycle that has continued through various reformation movements.
 
 <br>
 
@@ -113,13 +113,15 @@ By the 4th century, Christianity underwent a massive transformation following th
 
 ## Early Groups
 
-Differing opinions by early followers was common, and several notable groups emerged early on such as:
+Different beliefs by early followers of Christianity was common, and several notable groups emerged early on such as:
+
+<br>
 
 Jewish-Christian Groups (Jewish Law Keepers):
 
 * The Jerusalem Community: The original "Apostolic" circle led by James the Just; they remained within the framework of Second Temple Judaism, continuing to worship at the Temple and observe the Torah while following Jesus.
 
-* The Ebionites: A Jewish-Christian movement that regarded Jesus as the human Messiah (denying his divinity) and insisted on the necessity of following the Jewish Law for all believers.
+* The Ebionites: A Jewish-Christian movement that regarded Jesus as a human Messiah (denying his divinity), insisting on the necessity of continuing to follow the Jewish Law for all believers, and rejecting the teachings of Paul.
 
 * The Nazarenes: Early Jewish followers who accepted Jesus’s divinity and the Virgin Birth but, unlike Gentile converts, continued to observe Jewish customs and rituals.
 
