@@ -17,11 +17,53 @@ tags:
 
 ## Summary
 
-A Buddhist is a person who adheres to the teachings of Siddhartha Gautama (the Buddha), viewing him as an enlightened teacher who discovered the path to liberation from suffering.
+Buddhism is a philosophical framework and a religion believed to have primarily originated from Siddhartha Gautama (The Buddha). A Buddhist is a person who adheres to these teachings, viewing The Buddha as an enlightened teacher who discovered the path to liberation from suffering.
 
-There are roughly 300 - 500 million adherents, making it the world's fourth-largest religion, although it may be classified as a philosophy instead depending on how it is practiced. Being a Buddhist can differ significantly between traditions, particularly regarding the nature of the Buddha, the methods of practice, and the specific scriptures held as authoritative.
+<br>
 
-<br> 
+**Brief Summaries of Common Teachings:**
+
+Anicca (Impermanence): All of conditioned existence is in constant states of change.
+
+Dukkha (Suffering): Attachment to impermanent things causes dissatisfaction.
+
+Anatta (Non-Self): No permanent "self" or "soul". The "self" is a dynamic collection of changing physical and mental processes.
+
+Nirvana (Extinguishing): The "blowing out" of the passions, leading to release of Dukkha (suffering) and Samsara (cycle of repeated birth).
+
+Karma (Action): Intentional actions leading to consequences that shape further experiences.
+
+<br>
+
+**The Four Noble Truths:**
+
+* Dukkha (suffering). Existence involves suffering, anxiety, pain.
+
+* Samudaya (cause). Suffering is linked to desire, craving, wanting.
+
+* Nirodha (cessation). Suffering may be resolved by overcoming attachments.
+
+* Magga (path). The "Noble Eightfold Path" is the guide.
+
+<br>
+
+**The Noble Eightfold Path:**
+
+* Right View: See reality without delusion, understanding impermanence and the Four Noble Truths.
+
+* Right Resolve: Correct intention, to follow the Buddhist path, seek non-violence and goodwill.
+
+* Right Speech: Avoid lying, words meant to hurt, and useless speaking.
+
+* Right Action: Avoid killing or injuring, sexual misconduct, and stealing.
+
+* Right Livelihood: Earn an honest living without trading weapons, living beings, meat, intoxicants, or poisons.
+
+* Right Effort: Prevent unwholesome states, and create and maintain wholesome states.
+
+* Right Mindfulness: Ensure a clear and watchful awareness of the mind, remaining strongly attentive.
+
+* Right Samadhi: Concentration and training of the mind through proper meditative practices.
 
 ---
 
@@ -39,7 +81,7 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 <br>
 
-**Popular branches:**
+**Popular Branches:**
 
 * **Mahayana** ('Great Vehicle') 53% - 62% of followers
   
@@ -49,7 +91,7 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
   * The oldest surviving school, emphasizing the attainment of self-liberation.
 
-* **Vajrayana** ('Diamond Vehicle') 6% of followers
+* **Vajrayana** ('Diamond Vehicle') ~6% of followers
 
   * While often categorized under the Mahayana umbrella, it remains a distinct tradition characterized by tantric and esoteric practices aimed at rapid enlightenment.
 
@@ -57,7 +99,7 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 **Primary Foundational Texts:**
 
-* Theravada Authority: The Pali Canon (Tipitaka)
+* Theravada: The Pali Canon (Tipitaka)
 
   * Primary Texts: Vinaya Piṭaka (Discipline/Rules), Sutta Piṭaka (Discourses/Sayings), and Abhidhamma Piṭaka (Philosophy).
 
@@ -65,15 +107,15 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
   * Authority: For Theravada, this is the sole and final authority. They generally view later texts as non-canonical or unverified.
 
-* The Mahayana Authority: The Mahayana Sutras
+* The Mahayana: The Mahayana Sutras
 
   * Primary Texts: The Lotus Sutra, Heart Sutra, Diamond Sutra, Avataṃsaka Sutra, Lankavatara Sutra, Pure Land Sutras, etc.
 
   * Description: These texts emerged later in written form and record the "Bodhisattva Path", the goal of staying in the cycle of rebirth for the sake of all beings.
 
-  * Authority: For Mahayana, these are often regarded as the highest authority. They view the earlier Pali texts as "elementary" or "foundational" teachings.
+  * Authority: For Mahayana, these are often regarded as the highest authority. They typically view the earlier teachings as more specifically foundational and elementary.
 
-* The Vajrayana Authority: The Tantras (Broad Vajrayana) and The Tibetan Canon (Tibetan Buddhism - A form of Vajrayana)
+* The Vajrayana: The Tantras (Broad Vajrayana) and The Tibetan Canon (Tibetan Buddhism - A form of Vajrayana)
 
   * Primary Texts: The Tantras (vast collection(s) used in various schools of Vajrayana) and The Kangyur and Tengyur (used in Tibetan Buddhism).
 
@@ -83,7 +125,7 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 <br>
 
-**Early Founders:**
+**Key Early Figures:**
 
 * Siddhartha Gautama (The Buddha)
 
@@ -101,19 +143,15 @@ There are roughly 300 - 500 million adherents, making it the world's fourth-larg
 
 <br>
 
-***"Om mani padme hum"*** ~ Kāraṇḍavyūha Sūtra
-
-<br>
-
 ---
 
 ## Early History
 
-Buddhism developed from the teachings of Siddhartha Gautama (the Buddha) in the region of ancient India and Nepal. The precise dates of his life are debated, but generally place his death between 483 and 400 BCE. Siddhartha was said to be a former prince who renounced his royal life to find the end of suffering, eventually attaining Enlightenment (Bodhi) in meditation under a Bodhi tree. He spent the next 45 years teaching his doctrines, including the "Middle Way", a path between extreme asceticism and sensual indulgence.
+Buddhism developed from the teachings of Siddhartha Gautama (the Buddha) in the region of the ancient Indian subcontinent (Modern day India and Nepal). The precise dates of his life are debated, but generally place his death between 483 and 400 BCE. Siddhartha was said to be a former prince who renounced his royal life to find the end of suffering, eventually attaining Enlightenment (Bodhi) in meditation under a Bodhi tree. He spent the next 45 years teaching his doctrines, including the "Middle Way", a path between extreme asceticism and sensual indulgence.
 
 The movement initially consisted of a small group of monastic followers (the Sangha) who wandered with the Buddha, and lay supporters who provided them with food and robes. The Buddha gained the patronage of kings like Bimbisara and Pasenadi, allowing the Sangha (assembly) to grow rapidly, gathering several thousand followers. After the Buddha's death, his teachings were preserved orally, until eventually being written down in the 1st century BCE.
 
-Differing interpretations over monastic rules and the nature of an Arhat (enlightened being) eventually led to the first major schism roughly a century later. This split the community into the Sthavira Nikāya (Elders) and the Mahāsāṃghika (Great Assembly), forming different opinions on several matters, particularly with rules to be obeyed.
+Differing interpretations over monastic rules and the nature of an Arhat (enlightened being) eventually led to the first major schism roughly a century later. This split the community into the Sthavira Nikāya (Elders) and the Mahāsāṃghika (Great Assembly), forming different opinions on several matters.
 
 During the 3rd century BCE, under the patronage of Emperor Ashoka of the Mauryan Empire, Buddhism transformed from a regional Ganges sect into a trans-regional religion. Ashoka is heavily credited with spreading Buddhism by supporting missionaries, providing donations, constructing pillars inscribed with moral principles, and building numerous Buddhist Stupas (shrines). Following this expansion, doctrinal interpretations continued to diverge. Around the 1st century BCE the Mahayana movement emerged as a distinct movement, with expanded canonical scriptures that presented the Bodhisattva path (attaining enlightenment for the benefit of all beings).
 
