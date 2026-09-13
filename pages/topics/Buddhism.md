@@ -23,15 +23,15 @@ Buddhism is a philosophical framework and a religion believed to have primarily 
 
 **Brief Summaries of Common Teachings:**
 
-Anicca (Impermanence): All of conditioned existence is in constant states of change.
+* Anicca (Impermanence): All of conditioned existence is in constant states of change.
 
-Dukkha (Suffering): Attachment to impermanent things causes dissatisfaction.
+* Dukkha (Suffering): Attachment to impermanent things causes dissatisfaction.
 
-Anatta (Non-Self): No permanent "self" or "soul". The "self" is a dynamic collection of changing physical and mental processes.
+* Anatta (Non-Self): No permanent "self" or "soul". The "self" is a dynamic collection of changing physical and mental processes.
 
-Nirvana (Extinguishing): The "blowing out" of the passions, leading to release of Dukkha (suffering) and Samsara (cycle of repeated birth).
+* Nirvana (Extinguishing): The "blowing out" of the passions, leading to release of Dukkha (suffering) and Samsara (cycle of repeated birth).
 
-Karma (Action): Intentional actions leading to consequences that shape further experiences.
+* Karma (Action): Intentional actions leading to consequences that shape further experiences.
 
 <br>
 
