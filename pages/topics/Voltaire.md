@@ -2,8 +2,6 @@
 title: Voltaire
 layout: base.njk
 image: /images/topics/voltaire.webp
-eleventyExcludeFromCollections: true
-search: false
 tags:
   - Voltaire
   - Philosophy

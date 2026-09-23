@@ -21,6 +21,8 @@ loadTopics: true
   <button class="filter-btn" data-filter="religion">Religion</button>
 </div>
 
+## Pages with content available: Buddhism, Christianity
+
 <div id="topic-grid">
   {%- for topic in collections.topics | reverse %}
       <a href="{{ topic.url }}" class="topic-card" data-tags="{{ topic.data.tags | join: ' ' | downcase }}">

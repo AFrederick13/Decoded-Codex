@@ -1,13 +1,13 @@
 ---
-title: Plato
+title: Aristotle
 layout: base.njk
-image: /images/topics/plato.webp
+image: /images/topics/aristotle.webp
 tags:
-  - Plato
+  - Aristotle
   - Philosophy
 ---
 
-# Plato
+# Aristotle
 
 <img src="{{ image }}" alt="{{ title }}" class="topic-page-image">
 
