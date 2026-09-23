@@ -21,6 +21,30 @@ function initSearch() {
         if (!form.name) form.name = 'search-form';
     }
 
+
+    // NEW
+    // Auto-scroll search into view when focused or typed into
+    const searchInput = searchContainer.querySelector('.pagefind-ui__search-input');
+    if (searchInput) {
+        const scrollToSearch = () => {
+            // Delay accounts for mobile keyboard open animation (~300ms)
+            setTimeout(() => {
+                searchContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 300);
+        };
+
+        // Scroll when the user taps into the bar
+        searchInput.addEventListener('focus', scrollToSearch);
+
+        // Also trigger on the first keystroke in case the viewport shifted
+        searchInput.addEventListener('input', () => {
+            if (searchInput.value.length === 1) {
+                scrollToSearch();
+            }
+        });
+    }
+    
+
     // Add a click listener to the search container to make results full clickable
     // Using "mousedown" is more reliable than "click" for navigation events.
     searchContainer.addEventListener('mousedown', (e) => {

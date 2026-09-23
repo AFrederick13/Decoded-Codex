@@ -193,6 +193,11 @@ footer a {
   text-shadow: none;
 }
 
+/* padding for the search bar focus on click */
+#search {
+  scroll-margin-top: 1rem;
+}
+
 /* Styles for filter buttons */
 #filter-buttons {
   margin: 1rem;
