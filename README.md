@@ -149,7 +149,7 @@ This is the file used for the final site deployment through GitHub. It uses the 
 
 This is the Cascading Style Sheet for the entire site. It contains all the styling code used throughout every page of the site. Use caution when modifying, as changes are site-wide and can easily break the user-friendly display and responsive design even with very small changes.
 
-style.css has been modified numerous times to ensure a friendly user interface and layout for most, if not all, devices. Spacing is used between all elements for clarity and an uncluttered feel, and a common dark and gold theme style is used on all pages. (Note: I strongly dislike "light mode" or bright displays, which cause me discomfort personally having several eye issues. Please avoid large bright or white areas when modifying CSS.)
+style.css has been modified numerous times to ensure a friendly user interface and layout for most, if not all, devices. Spacing is used between all elements for clarity and an uncluttered feel, and a common dark and gold theme style is used on all pages. (Note: I am not fond of "light mode" or bright displays. An option to toggle to a light mode may be considered, but I will likely have "dark mode" as the default. Please avoid large bright or white areas when modifying CSS, unless within a designated light mode display toggle.)
 
 Max character width is set to 120ch in "main", so text is not stretched excessively long across wider displays/screens. Line-height is set to 1.75 in "p" as the default is too cramped. Most elements are "centered" to the middle of the page, except for main bodies of text and lists.
 
@@ -162,7 +162,7 @@ All site images are very particular on how they are displayed, and it was a sign
 
 **images**
 
-This folder contains all images/pictures used throughout the site, and this is the source folder for adding or removing any images. "Home" contains the main site image (a mystical looking open book written in an unknown language). "topics" contains the images for all topic/subject pages. All images are AI generated using Google Gemini. Changes to images are welcome, but need strict approval to maintain proper representation of the corresponding subject. Consider the imagery used particularly in religions, whereby it may be offensive in some cases to the practitioners.
+This folder contains all images/pictures used throughout the site, and this is the source folder for adding or removing any images. "Home" contains the main site image (a mystical looking open book written in an unknown language). "topics" contains the images for all topic/subject pages. Changes to images are welcome, but need strict approval to maintain proper representation of the corresponding subject. Consider the imagery used particularly in religions, whereby it may be offensive in some cases to the practitioners.
 
 The images are rendered by providing the image source path in the `image:` tag at the very top of each markdown page, using the placeholder `{{ image }}` within the in-line HTML `img` tags, and are defined by the class: `topic-page-image`.
 
@@ -230,11 +230,11 @@ This folder holds all the "pages" of the site, all of which are markdown files. 
 
   * The "div" tag with the id of "filter-buttons" is used to display the buttons on the homepage for filtering the topics.
 
-  * The "div" tag with the id of "topic-grid" is used to display the "grid" of the "topics". The topics are inside of a collection, which I am currently iterating over using a for loop, in reverse. I happened to build the pages in alphabetical order, and by default the topics are shown in order of most recent. Using "reverse" puts the topics back in alphabetical order.
+  * The "div" tag with the id of "topic-grid" is used to display the "grid" of the "topics".
 
 **topics**
 
-This folder contains all of the "topics". It is the individual pages or subjects, for each topic. Each of these follow a similar format, but differ on content. These are still in early stages, and it is undecided how these will look and change over time. Currently, as of December 28th 2025, only Buddhism.md and Christianity.md contain any meaningful content. The research required is extensive, and maintaining accuracy is crucial for each subject. This is the part of the project (Decoded Codex) that will take the most time, possibly my entire lifetime if the project lives that long. These are the "meat and potatoes" of the website.
+This folder contains all of the "topics". It is the individual pages or subjects, for each topic. Each of these follow a similar format, but differ on content. These are still in early stages, and it is undecided how these will look and change over time. Currently, as of December 28th 2025, only Buddhism.md and Christianity.md contain any meaningful content. The research required is extensive, and maintaining accuracy is crucial for each subject. This is the part of the project (Decoded Codex) that will take the most time, possibly my entire lifetime if the project lives that long.
 
 ---
 
