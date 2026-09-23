@@ -144,8 +144,9 @@ footer a {
 }
 
 .topic-card {
-  background-color: #3d3737;
+  background-color: #1c1c1c;
   border-radius: 8px;
+  border: 2px solid #ffc45d8d;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   text-decoration: none;
